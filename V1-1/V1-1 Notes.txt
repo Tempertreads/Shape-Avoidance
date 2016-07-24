@@ -1,0 +1,3 @@
+//Green triangle no longer moves offscreen
+//Circle now appears close to your mouse
+//Blue Square Speed Adjusted to be more fair
