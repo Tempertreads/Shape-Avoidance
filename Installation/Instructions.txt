@@ -1,0 +1,30 @@
+////////////////////////////////////////////////////////////////////////////////////
+
+To Install
+- double click Setup.exe
+- Click Install
+
+To Uninstall
+-Uninstall from Add/Remove programs
+-It's listed as WindowsFormsApplication1
+
+////////////////////////////////////////////////////////////////////////////////////
+
+Instructions for Shape Avoidance
+
+Goal: Avoid shapes for as long as possible. Counter shows how long you survived.
+
+Notes:  -Shapes are added every 10 seconds (limit of 3) .
+	-Game Over occurs if you leave the game area.
+	
+Mechanics:
+	Circle- 
+	Spawns across from mouse pointer (varying by a few pixels), then moves straight across the screen.
+	
+	Triangle-
+	Has 3 methods of movement, Up, down and straight. Spawn is random. Can't leave the play area.
+	
+	Square-
+	Follows the player.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
